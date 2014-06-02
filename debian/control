@@ -1,0 +1,15 @@
+Source: szn-util-closure-compiler
+Section: Seznam
+Priority: optional
+Maintainer: Seznam.cz a.s. <opensource@firma.seznam.cz>
+Build-Depends: debhelper (>=8)
+Standards-Version: 3.9.1
+Vcs-Git: git@github.com:seznam/szn-util-closure-compiler.git
+Vcs-Browser: https://github.com/seznam/szn-util-closure-compiler
+
+
+Package: szn-util-closure-compiler
+Architecture: any
+Section: Seznam
+Depends: java7-runtime | j2re1.7
+Description: Google Closure Compiler
