@@ -1,3 +1,9 @@
+szn-util-closure-compiler (2.0.0) testing; urgency=medium
+
+  * Update na compiler.jar v20190301
+
+ -- Ondrej Zara <ondrej.zara@firma.seznam.cz>  Fri, 15 Mar 2019 12:18:47 +0100
+
 szn-util-closure-compiler (1.0.5) testing; urgency=low
 
   * Initial release.
